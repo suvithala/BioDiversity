@@ -1,0 +1,1 @@
+web:gunicorn bio_env.app:app
