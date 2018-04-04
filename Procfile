@@ -1,1 +1,1 @@
-web: gunicorn bio_env.app:app
+web: gunicorn app:app
